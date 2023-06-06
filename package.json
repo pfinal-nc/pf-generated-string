@@ -16,14 +16,6 @@
       {
         "command": "pgs",
         "title": "生成重复的字符串"
-      },
-      {
-        "command": "pgsd",
-        "title": "Generate Dynamic String"
-      },
-      {
-        "command": "onTabKey",
-        "title": "On Tab Key"
       }
     ]
   },
