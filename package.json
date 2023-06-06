@@ -5,7 +5,7 @@
   "publisher": "pfinal-nc",
   "keywords": ["vscode", "plugin","pfinal"],
   "version": "0.0.2",
-  "icon": "https://raw.githubusercontent.com/pfinal-nc/iGallery/master/blog/202306061623361.ico",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
