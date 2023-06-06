@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "pf-generated-string" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+####  Vsersion - 0.0.2
 
-## [Unreleased]
+- 修改 README.md
+- 修改 CHANGELOG.md
+- 更新 插件 图标
 
-- Initial release
+####  Vsersion - 0.0.1
+
+- 初始化项目
+- 完成发版基本功能
