@@ -3,12 +3,14 @@
   "displayName": "pf_generated_string",
   "description": "一个字符串重复生成的小插件 方便生成指定个数的字符串",
   "publisher": "pfinal-nc",
-  "version": "0.0.1",
+  "keywords": ["vscode", "plugin","pfinal"],
+  "version": "0.0.2",
+  "icon": "https://raw.githubusercontent.com/pfinal-nc/iGallery/master/blog/202306061623361.ico",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
-    "Other"
+    "Snippets"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
