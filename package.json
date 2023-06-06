@@ -1,7 +1,8 @@
 {
   "name": "pf-generated-string",
   "displayName": "pf_generated_string",
-  "description": "",
+  "description": "一个字符串重复生成的小插件 方便生成指定个数的字符串",
+  "publisher": "pfinal-nc",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
